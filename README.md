@@ -10,7 +10,7 @@ This repository is intended as a professional portfolio project for data enginee
 ## Data Architecture
 
 The solution follows the Medallion Architecture, which separates data processing into three layers to improve data quality, scalability, and analytical performance.
-
+![Data Architecture Diagram](docs/images/data_architecture_diagram.png)
 
 ### Bronze Layer
 - Stores raw data ingested from source systems
